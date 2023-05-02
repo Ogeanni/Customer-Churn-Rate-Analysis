@@ -1,1 +1,1 @@
-# Customer-Retention-Analysis
+# Customer-Churn-Rate-Analysis
